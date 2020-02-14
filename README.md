@@ -15,6 +15,8 @@ e segue l'arco corrispondente al risultato fino ad arrivare ad una foglia che co
 ## •	Apprendimento
 Il dataset scelto per questo sistema si chiama Iris, ogni tupla si compone di 4 caratteristiche morfologiche del fiore ovvero: lunghezza e ampiezza del sepalo e lunghezza e ampiezza del petalo in cm', nell'ultima colonna invece vi è la classe di appartenenza del fiore, la quale è ovviamente influenzata dalle 4 caratteristiche precedenti(in questo caso ci sono 3 differenti tipi di iris: Setosa, Versicolour, e Virginica ).
 
+![](https://github.com/DaniMe98/ICon-progetto/blob/master/iris.jpg)
+
 Sono presenti nel dataset un totale di 150 esempi clasificati. 
 
 ## •	Processo di sviluppo

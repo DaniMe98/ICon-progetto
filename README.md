@@ -24,7 +24,7 @@ Sono presenti nel dataset un totale di 150 esempi clasificati.
 
 3)	I valori prodotti verranno poi utilizzati per calcolare per ciascun classificatore la rispettiva curva di precisione-richiamo, in modo da poterle poi mettere insieme su un grafico ed avere un confronto visivo.
 
-
+      ![Esempio di grafico](https://github.com/DaniMe98/ICon-progetto/blob/master/Cattura.PNG)
 
 I grafici sono stati integrati con la metrica AUC(Area Under the Curve) che calcola come suggerisce il nome, l'area sottesa alla curva di precisione-richiamo, che fornisce quindi un ulteriore e più preciso confronto fra i classificatori (area > indica precisione più alta, 1 = precisione assoluta).
 
